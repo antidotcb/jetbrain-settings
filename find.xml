@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\work\bridge2\tests\functional\lib\RequestsGeneratorLibrary.py'" />
-    <option name="defaultScopeName" value="File 'C:\work\bridge2\tests\functional\lib\RequestsGeneratorLibrary.py'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\work\bridge2\tests\functional\lib\RequestsGeneratorLibrary.py'" />
+    <option name="customScope" value="File 'D:\work\quiz-factory\DB.py'" />
+    <option name="defaultScopeName" value="File 'D:\work\quiz-factory\DB.py'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\work\quiz-factory\DB.py'" />
   </component>
 </application>
